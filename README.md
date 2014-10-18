@@ -1,4 +1,4 @@
 ProgrammingAssignment2
 ======================
 
-ProgrammingAssignmen2
+ProgrammingAssignment2
